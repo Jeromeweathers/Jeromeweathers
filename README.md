@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Honeynet](https://github.com/)
+  - [Azure Honeynet](https://github.com/Jeromeweathers/Azure-Honeynet-SOC-with-Real-World-Cyber-Attacks)
 
 <h2>☁️ Cloud Projects</h2>
 
